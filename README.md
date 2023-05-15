@@ -1,6 +1,6 @@
-### [bJk](https://github.com/vitoriacm/vitoriacm/assets/91792762/2bf8cec4-8cab-4f82-b73a-fc4ef57ac0a2)
+### ![bJk](https://github.com/vitoriacm/vitoriacm/assets/91792762/2bf8cec4-8cab-4f82-b73a-fc4ef57ac0a2)
 
-Hi there 👋!
+Hi there 👋
 <!--
 **vitoriacm/vitoriacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
